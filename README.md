@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PinoNoir
-- 👀 I’m interested in UX Design, Atomic Design principles, & Design Systems
-- 🌱 I’m currently learning frontend development
+- 👀 I’m interested in Product Design, Frontend Web Development, Atomic Design principles, & Design Systems
+- 🌱 Always open to learn something new
 - 💞️ I’m looking to collaborate on design projects for mobile and web applications
 - 📫 How to reach me www.nickpinodesigns.com
 
